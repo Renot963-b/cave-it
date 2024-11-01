@@ -1,0 +1,403 @@
+body{
+    font-size: 23px;
+    background-image: url(https://st5.depositphotos.com/62744630/62106/i/450/depositphotos_621061960-stock-photo-flag-italy-textured-background-concept.jpg);
+    background-size: contain;
+    justify-content: center;
+}
+table{
+    border: 3px solid red;
+    border-collapse:separate;
+    text-align: center;
+    bgcolor:rgb(248, 244, 238);
+    margin: 20px auto;
+    border-radius: 15px;
+    width: 80%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-spacing: 0px;
+}
+caption{
+  color:rgb(255, 80, 80);
+  font-size: 44px;
+  background-color: #b01111;
+  border-radius: 15px;
+  border: 1px solid black;
+}
+tr{
+   border: 3px solid red;
+   border-radius: 15px;
+}
+td,th{
+    border: 3px solid red;
+    text-decoration: none;
+    border-radius: 15px;
+    margin: -1;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    background-color: yellow;
+    border:3px solid #ff7b00;
+    border-radius: 42px;
+    margin: 7px;
+    padding: 12px;
+}
+.gir a{
+  color: rgba(33, 45, 214, 0.842);
+  text-decoration: none;
+  background-color: rgb(240, 225, 209);
+}
+ th{
+    background-color: bisque;
+    color:rgba(33, 45, 214, 0.842);
+ }
+ .gir {
+    background-color: bisque;
+ }
+ main img{
+    border: 4px solid rgb(255, 208, 0);
+    display:block;
+    margin: auto;
+ }
+ footer p{
+    color: rgb(226, 168, 93);
+ }
+ td{
+    background-color: rgb(240, 188, 111);
+    color: #112b05f5;
+    font-size: 33px;
+ }
+ .imj1{
+      width:333px ;
+      height:244px ;
+ }
+ .img2{
+   width:302px ;
+   height:202px ;
+ }
+ .imgp{
+   width:162px ;
+   height:156px ;
+ }
+ nav{
+   text-align: center;
+ }
+ h1{
+   text-align:center ;
+   background-color: white;
+   border: 2px solid black;
+ }
+ .imz{
+   width: 165px;
+   height:159px;
+ }
+  .imr{
+   width: 222px;
+   height: 135px;
+  }
+  footer img{
+   border: 3px solid rgb(20, 90, 20);
+   border-radius: 9px;
+   background-color: #9123da33;
+  }
+.pizza{
+color:#b01111 ;
+}
+.decerty{
+color:#f4caf7 ;
+}
+.spage{
+color:#e4bc0c ;
+}
+.piu{
+color:#281dc5;
+}
+h3{
+  color:rgba(255, 153, 0, 0.938);
+}
+div img{
+  width: 277px;
+  height: 177px;
+  border: 4px solid rgb(248, 12, 12);
+  border-radius: 15px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+  transition: 0.3s;
+  transform: scale(1.11);
+  margin: 10px;
+}
+div{
+  background-color: #ff7b00;
+  border: 2px solid rgba(54, 47, 4, 0.89);
+  border-radius: 10px;
+  text-decoration: none;
+}
+div a{
+  text-decoration: none;
+}
+.piz{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+.dec{
+   flex: 1;
+   padding: 10px;
+   box-sizing: border-box;
+   border-radius: 10px;
+   margin: auto;
+   color: blue;
+}
+.hc{
+  color: rgb(235, 9, 9);
+  text-align: center;
+  background-color: #ff8b1f;
+  border: 1px solid black;
+  border-radius: 22px;
+  margin: auto;
+}
+.pod{
+  background-color: #65646b;
+  color: rgb(197, 170, 170);
+}
+.osob{
+  background-image: url(https://media.istockphoto.com/id/1217765776/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D1%80%D0%B0%D0%BF%D0%BE%D1%80-%D1%96%D1%82%D0%B0%D0%BB%D1%96%D1%97-%D0%B4%D0%BC%D0%B5-%D0%BD%D0%B0-%D0%B2%D1%96%D1%82%D1%80%D1%96.jpg?s=612x612&w=0&k=20&c=KVfFdW5hTAGFLyfLyXqfHmeOu50sWWEwvdccqSFwUX0=);
+  background-size: contain;
+  border: 4px solid grey;
+}
+.hh1{
+  width: 180px;
+  height: 180px;
+  margin-right: 10px;
+  position: absolute;
+  left: 0;
+  top: 50;
+  transform:translateY(-40%);
+  border: 2px solid black;
+}
+h1{
+  text-align: center;
+  position: relative;
+}
+.hh2{
+  width: 180px;
+  height: 180px;
+  position: absolute;
+  margin-top: -10;
+  transform: translateY(-68%);
+  right: 0;
+  margin-left: 10px;
+  border: 2px solid black;
+}
+header{
+  position: relative;
+  top: 40%;
+  padding: 0 60px;
+  text-align: center;
+}
+.else{
+  color: #ff7b00;
+}
+.elif{
+  color:#5c00cc;
+}
+.x{
+  background-color: #767812;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+.elif img{
+  width: 70;
+  height: 40px;
+  border: 2px dotted grey;
+}
+main p{
+  color: aqua;
+}
+main img{
+  border-radius: 10px;
+}
+img{
+  transition: transform 0.3s ease;
+}
+img:hover{
+  transform: scale(1.1);
+}
+td:hover{
+  transform: scale(1.1);
+}
+th:hover{
+  transform: scale(1.1);
+}
+.cl:hover{
+transform: scale(2.1);
+}
+@keyframes twist {
+  0%, 100%{
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+h3{
+    background-color: #767812;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+h3 p{
+  color:#5c00cc;
+  text-align: center;
+}
+.gr{
+    color:#5c00cc;
+  text-align: center;
+  background-color: #767812;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+.pod{
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.sn{
+  color: aquamarine;
+}
+.dviv{
+  text-align: center;
+}
+html{
+  scroll-behavior: smooth;
+}
+p,h2,h3{
+  transition: transform 0.5s;
+  transition: font-family 0.5s ease;
+  font-family: sans-serif;
+  border: 3px solid blanchedalmond;
+  border-radius: 25px;
+}
+h1,h1 img{
+  border-radius: 15px;
+}
+h2{
+  background-color: grey;
+}
+main p{
+  background-color: #6e0b0b;
+}
+.hig{
+  background-color: #65646b;
+}
+.higr{
+  background-color: #df6f06;
+  color: #281dc5;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+.osobl{
+  text-align: center;
+  font-size: 38px;
+}
+.las{
+  font-size: 25px;
+}
+form{
+  color: red;
+  background-color: #281dc5;
+}
+.nia{
+  text-align: center;
+  color: #5c00cc;
+  display: inline-block;
+  align-items: center;
+  padding: 10px;
+  margin-top: 50px;
+}
+#succes-message{
+  display: none;
+  margin-top: 20px;
+  color: green;
+}
+script{
+  text-align: center;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 38px;
+  border: 50px solid gray;
+  border-radius: 256px;
+}
+footer h2{
+  text-align: center;
+  color: #281dc5;
+}
+.akc{
+  border: 2px solid black;
+  background-color: #e4bc0c;
+  color: #281dc5;
+  border-radius: 5px;
+}
+.sec{
+  text-align: center;
+  color: aqua;
+}
+button{
+  background-color: #f39c12;
+  font-size: 35px;
+  color: aliceblue;
+  font-weight: bold;
+  padding: 10px 20px;
+  margin: 15px;
+  border-radius: 10px;
+  border: 7px solid darkblue;
+}
+button:hover{
+transform: scale(1.02);
+}
+input, select{
+  padding: 5px;
+  font-size: 23px;
+  font-weight: bold;
+  border-radius: 10px;
+  border: 5px solid darkblue;
+}
+input, select:hover{
+  transform: scale(1.02);
+}
+.container {
+text-align: center;
+}
+.wheel {
+width: 300px;
+height: 300px;
+border: 16px solid #4CAF50;
+border-radius: 50%;
+background: conic-gradient(
+#ff6347 0% 25%,   /* Помідop*/
+#ffa500 25% 50%,  /* Апельсин */
+#ffd700 50% 75%,  /* Золотистий */
+#8a2be2 75% 100%   /* Синій */
+);
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 20px auto;                                                                                                                                                                                                                                                            position: relative;
+transition: transform 4s ease-out;
+}
+button {
+padding: 10px 20px;
+                                                                                                                                                                                                                                                                                                                                                                                                            font-size: 16px;
+                                                                                                                                                                                                                                                                                                                                                                                                                        cursor: pointer;
+                                                                                                                                                                                                                                                                                                                                                                                                                                }
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                        p {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    font-size: 20px;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                font-weight: bold;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </style>
+                                                                                                                                                                                                                                                                                                                                                                              
